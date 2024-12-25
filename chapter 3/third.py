@@ -53,7 +53,20 @@
 
 
 # Tuples Methods
-tup = (2,1,3,1)
-print(tup.index(1))  # return index of first occurence.
-print(tup.count(1))  # Count total occurence
+
+# tup = (2,1,3,1)
+# print(tup.index(1))  # return index of first occurence.
+# print(tup.count(1))  # Count total occurence
+
+
+# Practice Question
+
+# WAP to count the count of student with the "A" grade in the following tuple.
+# ["c","D","A","A","B","B","A"]
+
+# grade = ["c","D","A","A","B","B","A"]
+# grade.sort()
+# print(grade)    #["c","D","A","A","B","B","A"]
+
+
 
